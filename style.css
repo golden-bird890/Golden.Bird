@@ -1,9 +1,0 @@
-
-body{background:#080808;color:white;font-family:Arial;margin:0}
-nav{display:flex;justify-content:space-between;padding:15px;background:#000}
-.logo,h1,h2,h3{color:#d4af37}
-.hero{display:flex;justify-content:space-around;padding:60px;background:#111}
-.trainer{border:2px solid #d4af37;padding:80px}
-.stats,.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;padding:20px}
-.stats div,.card{border:1px solid #d4af37;padding:20px}
-.btn{background:#d4af37;color:black;padding:10px;text-decoration:none}
